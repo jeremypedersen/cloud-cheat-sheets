@@ -1,8 +1,8 @@
 # Quick BI
 
-Last Update: 2021-01-20
-Provider: [Alibaba Cloud (International)](https://www.alibabacloud.com)]
-[Official Documentation](https://www.alibabacloud.com/help/product/30343.htm)
+- Last Update: 2021-01-20
+- Provider: [Alibaba Cloud (International)](https://www.alibabacloud.com))
+- [Official Documentation](https://www.alibabacloud.com/help/product/30343.htm)
 
 ## What is it?
 
