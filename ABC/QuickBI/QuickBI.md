@@ -12,6 +12,12 @@ In short, Quick BI is a tool for doing data analysis. It allows data analysts to
 
 - Azure PowerBI
 
+## The Bottom Line
+
+Worth considering if you have 50 to a few hundred users who need to perform analysis and build display boards over large, dispersed data sets, but it is *expensive*. Quick BI would get you the most bang for your buck if you have target users in China, where other BI tools may not work as well. 
+
+If you are a startup, look to low-cost open source tools first. 
+
 ## Pricing
 
 Since Alibaba Cloud maintains two portals (alibabacloud.com for non-Chinese users, aliyun.com for Chinese users) pricing differs across the two sites.
